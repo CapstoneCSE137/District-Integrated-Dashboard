@@ -14,4 +14,5 @@ district_data.to_csv("Bagalkot_health_data.csv", index=False)
 
 df.info()
 
-df.discribe()
+
+df.describe()
